@@ -1,7 +1,9 @@
-package com.apps.childcontrol;
+package com.apps.childcontrol.presentation.home;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.apps.childcontrol.R;
 
 public class HomeActivity extends AppCompatActivity {
 
